@@ -41,9 +41,10 @@ Bmob提供了Im的一个Demo：[Bomb-IM](https://github.com/bmob/bmob-android-im
 最后：
 祝大家新年快乐啦！
 有问题反馈
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
-邮件:lfk_dsk@hotmail.com
-博客: [刘丰恺](http://www.cnblogs.com/lfk-dsk/)
+在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流：
+
+* 邮件:lfk_dsk@hotmail.com
+* 博客: [刘丰恺](http://www.cnblogs.com/lfk-dsk/)
 
 ## License
 
