@@ -17,8 +17,8 @@
 
 ![p1](art/justwe.png)
 
-我写的示例：[WebIm]()（其实没什么参考性）
-教程：[WebIm教程]()
+我写的示例：就是里面的那个demo（其实没什么参考性）
+教程：[WebIm教程](http://www.cnblogs.com/lfk-dsk/)
 
 #### 2.使用Bmob云后端：
 
@@ -26,7 +26,7 @@
 
 之前群里的那个扫二维码同步笔记的东西就用了
 这个。
-Bmob提供了Im的一个Demo：[Bomb-IM]()
+Bmob提供了Im的一个Demo：[Bomb-IM](https://github.com/bmob/bmob-android-im-sdk)
 
 #### 3.使用蓝牙：
 
@@ -43,5 +43,20 @@ Bmob提供了Im的一个Demo：[Bomb-IM]()
 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 邮件:lfk_dsk@hotmail.com
-博客: [刘丰恺]()
+博客: [刘丰恺](http://www.cnblogs.com/lfk-dsk/)
 
+## License
+
+    Copyright 2015 [刘丰恺](http://www.cnblogs.com/lfk-dsk/)
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
