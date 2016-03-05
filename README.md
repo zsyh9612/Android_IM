@@ -15,7 +15,7 @@
 这种情况就有点类似于给Spark(OpenFire的一个即时通讯）写一个Android的感觉，但是你也可以只以来和 服务器联通的方法，其余的全都自己写，我之
 前就是这么搞的。
 
-![p1](art/justwe.png)
+![p1](art/login.png)
 
 我写的示例：就是里面的那个demo（其实没什么参考性）
 教程：[WebIm教程](http://www.cnblogs.com/lfk-dsk/)
