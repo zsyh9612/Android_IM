@@ -1,5 +1,7 @@
 # Android IM
 
+作业上传方式，[上传方式](update/howtoupdatehw.md)
+
 ## 做一个即时通讯的app  
 
 ### 需要的素材:  
