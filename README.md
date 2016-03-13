@@ -1,4 +1,4 @@
-# Android IM
+﻿# Android IM
 
 作业上传方式，[上传方式](update/README.md)
 
@@ -41,7 +41,7 @@ Bmob提供了Im的一个Demo：[Bomb-IM](https://github.com/bmob/bmob-android-im
 比如说聊天记录怎么保存啊－－－－会用到数据库 ListView做的聊天界面，怎么才能像QQ一样两侧布局啊－－－－加载两套布局 等等等等啦！
 
 最后：
-祝大家新年快乐啦！
+祝大家新年快乐啦！!
 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流：
 
