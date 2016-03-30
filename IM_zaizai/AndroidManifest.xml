@@ -32,6 +32,10 @@
             android:name="com.zaizai.im.ConversationActivity"
           	 android:label="@string/app_name" >
         </activity>
+          <activity
+            android:name="com.zaizai.im.RegisterActivity"
+          	 android:label="@string/app_name" >
+        </activity>
         
     </application>
 
