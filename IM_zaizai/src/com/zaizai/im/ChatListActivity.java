@@ -7,10 +7,12 @@ import java.util.ArrayList;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.WindowManager;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.BaseAdapter;
@@ -24,6 +26,10 @@ public class ChatListActivity extends Activity{
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		  if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {  
+	            getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);  
+	            getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);  
+	        }//³Á½þÊ½×´Ì¬À¸
 		setContentView(R.layout.chatlist);
 		
 		listViewChatList=(ListView)findViewById(R.id.listViewChatList);

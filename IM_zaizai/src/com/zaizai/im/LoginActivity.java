@@ -3,10 +3,12 @@ package com.zaizai.im;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.os.Build;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.WindowManager;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
@@ -16,6 +18,10 @@ public class LoginActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+		  if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {  
+	            getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);  
+	            getWindow().addFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_NAVIGATION);  
+	        }//³Á½þÊ½×´Ì¬À¸
 		setContentView(R.layout.login);
 
 		buttonLogin=(Button)findViewById(R.id.buttonLogin);
